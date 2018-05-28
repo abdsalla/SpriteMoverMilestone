@@ -288,6 +288,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Exit.cs" />
+    <Compile Include="Assets\Renable.cs" />
     <Compile Include="Assets\SpriteMover.cs" />
   </ItemGroup>
   <ItemGroup>
